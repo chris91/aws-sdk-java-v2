@@ -10,7 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>protocols</artifactId>
+    <name>AWS Java SDK :: Core :: Protocols</name>
     <packaging>pom</packaging>
+    <description>
+        The AWS SDK for Java - Protocols is an umbrella module that contains child protocol modules
+    </description>
     <modules>
         <module>aws-query-protocol</module>
         <module>aws-json-protocol</module>

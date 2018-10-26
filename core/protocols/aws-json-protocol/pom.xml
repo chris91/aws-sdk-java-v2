@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>aws-json-protocol</artifactId>
-    <name>AWS Java SDK :: AWS Json Protocol</name>
+    <name>AWS Java SDK :: Core :: Protocols :: AWS Json Protocol</name>
     <description>The AWS SDK for Java - module holds the classes for AWS Json protocol
     </description>
     <url>https://aws.amazon.com/sdkforjava</url>
